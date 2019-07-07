@@ -1,0 +1,12 @@
+Darmorph;
+High;
+Player;
+Wave 3;
+1;
+Darmorph is a living shadow monster capable of metamorphosing into any form imaginable.
+Its body is made of matter resembling smoke, which makes it easy to slip throught walls or any structures.
+It has two attack patterns, so be careful when evading its attacks.;
+50;
+60;
+50;
+40;

@@ -1,0 +1,12 @@
+Ocusphite;
+Low;
+Structures;
+Wave 1;
+0;
+Ocusphite, also known as the Solid Eye, is a hard-rock monster.
+
+Its hard body and powerful arms make it feared as an unstoppable force of nature capable of withstanding anything and to crush down anything or anyone on its path.;
+80;
+100;
+10;
+10;
